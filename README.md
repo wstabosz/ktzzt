@@ -1,5 +1,5 @@
-# ktzzt
-@ktzzt is a twitter handle I created to add missing functionality to twitter
+## Introduction
+[@ktzzt](https://twitter.com/ktzzt) is a Twitter handle I created to add missing functionality to twitter
 
 # Purpose
 
@@ -14,23 +14,35 @@ I want to find a way to make online conversations more civil and less aggressive
 
 People have already been trained how to use emojis to convey sentiment. 🤷 is generally accepted to say “I don’t know.”. I want to expand on that existing training with more specific messages.
 
-## Encoded messages
+# Encoded messages
 
 **Code** 🚧📢
+
 **Name** Constructive criticism
+
 **Message** This tweet is meant to be constructive criticism, please don’t interpret it as a personal attack.
 
+
 **Code** 🧵🎃
+
 **Name** Thread jacking
+
 **Message** I acknowledge that my reply is off-topic, and for that I apologize, but I wanted to share.
 
+
 **Code** 🪓👂
+
 **Name** I’m all ears. ([maul](https://en.wikipedia.org/wiki/Splitting_maul) ears)
+
 **Message** Please give me your honest feedback.
 
+
 **Code** 🍊📐
+
 **Name** Tangent
+
 **Message** My tweet is slightly on-topic, but your tweet reminded me of something similar that I wanted to talk about.
+
 **Remarks** I’m not sure if there is a difference between 🧵🎃 and 🍊📐
 
 # Usage
@@ -49,6 +61,9 @@ If you like my idea, and want to contribute, please tweet me @WaltStabosz
 I'm looking for your ideas for other encoded messages.
 
 Other usage ideas: I do not have a complete idea for how @ktzzt will work. If you have any ideas, I’m all ears 🪓👂.
+
+### Shorter handle
+If anyone wants to donate their low character handle to this project, please reach out.
 
 # FAQ
 
